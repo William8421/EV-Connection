@@ -1,4 +1,4 @@
 # EV-Connection
 DCI - Full Stack Final Project
 
-## https://evconnection.herokuapp.com/
+## https://evconnection.netlify.app//
